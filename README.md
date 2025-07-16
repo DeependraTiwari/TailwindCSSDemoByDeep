@@ -85,4 +85,4 @@ This project is open for educational and showcase purposes and does not have any
 
 - 🔗 [LinkedIn](www.linkedin.com/in/deependra-tiwari)
 - 💻 [GitHub](https://github.com/DeependraTiwari)
-- 📧 Email: [deeptiwari200421@gmail.com](mailto:deependratiwari217@gmail.com)
+- 📧 Email: [deeptiwari200421@gmail.com](mailto:deeptiwari200421@gmail.com)
